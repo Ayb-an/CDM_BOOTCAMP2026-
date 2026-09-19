@@ -1,10 +1,7 @@
-project:
-
+project: 
 wokwi_id: 354858054593504257
 title:    "TinyTapeoutTemplate_PhBootCamp2026"  # Project title
 author:   "Ivan Obalan"   # Your name
-
-
 description: "based from Tiny Tapeout Wokwi Template"   # One line description of what your project does
 language: "Wokwi"  # other examples include SystemVerilog, Amaranth, VHDL, etc
 clock_hz: 0   # Clock frequency in Hz (or 0 if not applicable)
